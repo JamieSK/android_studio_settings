@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/JamieSK/enums_start_code.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/JamieSK/advanced_testing_start_Point.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/codeclan_work/week_6/day_4/" />
