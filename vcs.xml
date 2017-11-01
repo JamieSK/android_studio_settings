@@ -26,6 +26,10 @@
           <option name="url" value="https://github.com/JamieSK/Sql_Start_Point" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/JamieSK/wrestler_Start_Point" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/codeclan_work/week_7/day_3" />
